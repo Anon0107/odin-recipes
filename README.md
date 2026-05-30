@@ -10,3 +10,6 @@ https://anon0107.github.io/odin-recipes/
 - images using ```<img>``` tag
 - ordered and unordered lists
 - HTML headers
+- CSS classes and selectors
+- basic CSS styling
+- CSS box model, block and inline using ```<div>```
